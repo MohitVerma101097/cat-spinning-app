@@ -1,9 +1,8 @@
-body {
-    background: url('./cat.gif');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 *{
     cursor: pointer;
+}
+
+body {
+    background: url('./cat.gif');
 }
