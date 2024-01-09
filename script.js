@@ -4,7 +4,7 @@ const body = document.querySelector("body")
 let catPurr;
 
 const playSound = () => {
-    let oiaooiao = new Audio("/gato.mp3")
+    let oiaooiao = new Audio("gato.mp3")
     oiaooiao.play();
 };
 
